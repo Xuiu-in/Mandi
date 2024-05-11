@@ -1,50 +1,84 @@
 {
-  "cities": [
-    {
-      "name": "City Name 1",
-      "prices": {
-        "tomato": {
-          "price": 25.00,
-          "image": "tomato.jpg",
-          "description": "Fresh tomatoes from local farms",
-          "last_updated": "2022-10-15"
-        },
-        "potato": {
-          "price": 20.00,
-          "image": "potato.jpg",
-          "description": "Organic potatoes with great taste",
-          "last_updated": "2022-10-15"
-        },
-        "onion": {
-          "price": 30.00,
-          "image": "onion.jpg",
-          "description": "Sweet and crunchy onions",
-          "last_updated": "2022-10-15"
-        }
-      }
-    },
-    {
-      "name": "City Name 2",
-      "prices": {
-        "tomato": {
-          "price": 30.00,
-          "image": "tomato.jpg",
-          "description": "Fresh tomatoes from local farms",
-          "last_updated": "2022-10-15"
-        },
-        "potato": {
-          "price": 25.00,
-          "image": "potato.jpg",
-          "description": "Organic potatoes with great taste",
-          "last_updated": "2022-10-15"
-        },
-        "onion": {
-          "price": 35.00,
-          "image": "onion.jpg",
-          "description": "Sweet and crunchy onions",
-          "last_updated": "2022-10-15"
-        }
-      }
-    }
-  ]
+"city": {
+"name": "City Name 1",
+"prices": {
+"1": {
+"name": "Tomato",
+"price": 25.00,
+"image": "tomato.jpg",
+"description": "Fresh tomatoes from local farms",
+"last_updated": "2022-10-15"
+},
+"2": {
+"name": "Potato",
+"price": 20.00,
+"image": "potato.jpg",
+"description": "Organic potatoes with great taste",
+"last_updated": "2022-10-15"
+},
+"3": {
+"name": "Onion",
+"price": 30.00,
+"image": "onion.jpg",
+"description": "Sweet and crunchy onions",
+"last_updated": "2022-10-15"
+},
+"4": {
+"name": "Apple",
+"price": 40.00,
+"image": "apple.jpg",
+"description": "Organic and juicy apples",
+"last_updated": "2022-10-15"
+},
+"5": {
+"name": "Banana",
+"price": 15.00,
+"image": "banana.jpg",
+"description": "Ripe and delicious bananas",
+"last_updated": "2022-10-15"
+},
+"6": {
+"name": "Spinach",
+"price": 18.00,
+"image": "spinach.jpg",
+"description": "Fresh and nutritious spinach leaves",
+"last_updated": "2022-10-15"
+},
+"7": {
+"name": "Lentils",
+"price": 10.00,
+"image": "lentils.jpg",
+"description": "High-quality lentils for a healthy diet",
+"last_updated": "2022-10-15"
+},
+"8": {
+"name": "Chickpeas",
+"price": 12.00,
+"image": "chickpeas.jpg",
+"description": "Nutritious chickpeas for protein intake",
+"last_updated": "2022-10-15"
+},
+"9": {
+"name": "Wheat Flour",
+"price": 22.00,
+"image": "wheat_flour.jpg",
+"description": "Freshly milled wheat flour for baking",
+"last_updated": "2022-10-15"
+},
+"10": {
+"name": "Ghee",
+"price": 50.00,
+"image": "ghee.jpg",
+"description": "Pure and aromatic ghee for cooking",
+"last_updated": "2022-10-15"
+},
+"11": {
+"name": "Milk",
+"price": 28.00,
+"image": "milk.jpg",
+"description": "Farm-fresh milk for daily consumption",
+"last_updated": "2022-10-15"
+}
+}
+}
 }
