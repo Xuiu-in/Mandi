@@ -1,0 +1,50 @@
+{
+  "cities": [
+    {
+      "name": "City Name 1",
+      "prices": {
+        "tomato": {
+          "price": 25.00,
+          "image": "tomato.jpg",
+          "description": "Fresh tomatoes from local farms",
+          "last_updated": "2022-10-15"
+        },
+        "potato": {
+          "price": 20.00,
+          "image": "potato.jpg",
+          "description": "Organic potatoes with great taste",
+          "last_updated": "2022-10-15"
+        },
+        "onion": {
+          "price": 30.00,
+          "image": "onion.jpg",
+          "description": "Sweet and crunchy onions",
+          "last_updated": "2022-10-15"
+        }
+      }
+    },
+    {
+      "name": "City Name 2",
+      "prices": {
+        "tomato": {
+          "price": 30.00,
+          "image": "tomato.jpg",
+          "description": "Fresh tomatoes from local farms",
+          "last_updated": "2022-10-15"
+        },
+        "potato": {
+          "price": 25.00,
+          "image": "potato.jpg",
+          "description": "Organic potatoes with great taste",
+          "last_updated": "2022-10-15"
+        },
+        "onion": {
+          "price": 35.00,
+          "image": "onion.jpg",
+          "description": "Sweet and crunchy onions",
+          "last_updated": "2022-10-15"
+        }
+      }
+    }
+  ]
+}
